@@ -125,3 +125,7 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Aman Sharma
 - **GitHub:** https://github.com/amansharma264
 - **About:** Third-year B.Tech student in ETE. Passionate about Backend development.
+
+- **Name:** Your Name
+- **GitHub:** https://github.com/your-username
+- **About:** Short description about yourself
